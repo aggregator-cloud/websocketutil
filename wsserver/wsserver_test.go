@@ -9,7 +9,7 @@ import (
 
 	"net/http/httptest"
 
-	"simple-forwarding-unit/wsserver"
+	"github.com/aggregator-cloud/websocketutil/wsserver"
 
 	"github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"
